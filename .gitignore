@@ -1,0 +1,6 @@
+.idea
+.vscode
+.env
+vendor
+.phpunit.cache
+coverage
