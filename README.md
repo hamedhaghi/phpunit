@@ -12,5 +12,5 @@
 ### How to Run
 
 - Copy `.env` file from `.env.example`
-- Set `EMAIL` and `PASSWORD` to meet the `test criteria`.
+- Set `EMAIL` and `PASSWORD`
 - Run `vendor/bin/phpunit`
